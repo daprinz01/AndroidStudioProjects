@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BB IMEI GEN</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_luncher">BB IMEI GEN</string>
+    <string name="dummy_button">Generate IMEI</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
